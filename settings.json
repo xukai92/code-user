@@ -7,5 +7,7 @@
     // "editor.fontLigatures": true,
     "julia.executablePath": "/home/kai/bin/julia",
     "latex-workshop.chktex.enabled": true,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+
+    "python.formatting.autopep8Args": ["--ignore E231"]
 }
